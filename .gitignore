@@ -1,0 +1,26 @@
+/css/
+/data/
+
+# build
+/build/
+/.next/
+/dist/
+
+# environment variables
+.env
+.env.local
+
+# files
+f1.html
+f2.html
+
+# logs
+*.log
+
+#images
+*.png
+*.jpg
+*.jpeg
+
+#text
+*.txt
